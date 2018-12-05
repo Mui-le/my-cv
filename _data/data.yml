@@ -1,0 +1,201 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    # Site Settings
+    title: My Resume
+    url: 'https://driland-le.github.io/my-cv'
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name: Mui Le Van
+    tagline: Senior Software Engineer
+    pic: my_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: mrzendo9x@gmail.com
+    phone: (+84) 905 326 082
+    github: mui-le
+    twitter: '@levantuan14'
+    codewars: codewars_muibk
+
+    languages:
+        - language:
+          idiom: Vietnamese
+          level: Native
+        - language:
+          idiom: English
+          level: Medium
+        
+    interests:
+        - interest:
+          item: Game
+          link:
+        - interest:
+          item: Read book
+          link:
+        - interest:
+          item: Coding
+          link:
+        - interest:
+          item: Swimming
+          link:
+        - interest:
+          item: Cooking
+          link:
+
+career-profile: 
+    title: Summary
+    text: 'Software Engineer with hands-on experience in a few levels of research, testing(Unit & TDD), including, performance, functional, integration, system, Agile development. Supportive and enthusilatic team player dedicated to streamliming processes and efficiently resolving project issues. Willing to take ownership of core components'
+
+studies: 
+    - education:
+      degree: Software Engineer 
+      university: Da Nang University of Science and Technology - DUT
+      link: http://www.dut.udn.vn/
+      time: 2009 - 2014
+      details: "The polytechnic university was founded in Đa Nang in 1976 and then had two divisions: an economic faculty and a technical faculty. When the University of Đa Nang was founded by incorporating several colleges in Đa Nang, the economic division was split off to establish Đa Nang"
+
+experiences:
+    title: Experiences
+    
+    experiences:
+        - role: Senior Software Engineer
+          time: 2016/11/01 - 2018/10/12
+          company: Grevo(Gree jp - Evolable asia)
+          details: Implement scalable, research, design structure applications for the new features, information identificaiton, extraction, analysis Gp-data(a type of asynchronous Database in Gree). Supportive member on team to implement, review coding and the features, mentor for new member(Vietnam & Japan engineer).
+          bullets:
+              - Join to a big application built by gree platfrorm, the project has high traffic and handle million request per second for any feature
+              - Direct software design and development, Clean Coding, Improve performance.
+              - Have opportunity to work with google collaborate engineer(Oyaki, suzuki) and senior engineer from Gree jp, core member of PHP language.
+              - Collaborate closely with other team member, PM team(project manager & plan ahead).
+              - Interface with data analysis, developers, and technical support to determine optimal specification.
+              - OO design and analysis(basic).
+              - Familiar with database optimization and performance, MySQL Replication
+              - Work with python background(Gp-data, data background analytics), shell script, Docker, Aws-cloudsearch, Google API, Javascript for spreadsheet and background
+              
+        - role: Freelance developer
+          time: 2016
+          company: 
+          details: Responsive, Design API applications, design structure for new feature in small sites, configuration and deploy small service.
+          bullets:
+              - Configuration, deployment applications on linux(centos).
+              - Design, and develop robust solutions.
+              - Work independently and remote, creative and improvement schedule.
+              - Work with python(flask framework, shell script, elasticsearch, MySQL, postgresql, PERL basic, mongodb, AWS-EC2 etc.)
+
+        - role: Junior Software Engineer
+          time: 2014/10/01 - 2016/05/01
+          company: Asian Tech Co., Ltd, Da Nang
+          details: Agile development, Responsive & design structure API applications, web applications, research and support other member.
+          bullets:
+              - Familiar with agile system development(worked with a master Agile from JP), interest with collaborate employees from Japan.
+              - Experience with system development using cloud services(AWS).
+              - Startup projects, Working experience with Laravel(PHP), Ruby on Rails(Ruby) or other MVC framework, AWS service(sns notification)
+              - Interest in Start-up, young & dynamic environment.
+
+              
+projects:
+    title: Projects
+    intro: ""
+    
+    projects:
+      - project:
+        title: Driland game
+        link: "https://en.wikipedia.org/wiki/Tanken_Driland"
+        tagline: "Tanken Driland is a card-battling quest-based RPG. The player assumes the role of a hunter, and acquires hero cards which are used to defeat dire monsters and collect treasures. The cards gain experience points and can be upgraded. It is also a cooperative game; players can team up to defeat stronger opponents."
+        technical: Ethna framework, Aoi service(gree platfrorm), MySQL, MySQL Replication, Javascript, google API(spreadsheet), Aws cloud service(dev & production server) 
+        participants: 40
+
+      - project:
+        title: Background data analytics
+        link: "#"
+        tagline: "Build background of big project and data analytics"
+        technical: shell script, python, Docker
+        participants: a lot people
+
+      - project:
+        title: Insurance & Bank(I forgot this application name)
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products, care and follow up health status"
+        technical: Python flask framework, elasticsearch, shell script, postgresql
+        participants: 6
+
+      - project:
+        title: Portal of Ha Long city
+        link: "http://hanhchinhconghalong.gov.vn/"
+        tagline: "This is a government project, specifically in Ha Long City, for the construction of a public administration system. Supports people to interact with remote administration services through website research and information processing."
+        technical: Ruby on Rails, MySQL, jQuery, Coffee script(although it only a litle).
+        participants: 2
+
+      - project:
+        title: SEVENTEEN
+        link: "#"
+        tagline: "Seventeen is service project about teen age 17, this magazine seventeen very famous in japan(http://hpplus.jp/st/)"
+        technical: Agile development, Laravel framework, Mysql, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unittest.
+        participants: 17
+
+      - project:
+        title: INVESTER-CLOUD
+        link: "#"
+        tagline: "Site advertise apartments, interior in japan."
+        technical: Agile development, Laravel framework, MySQL, jQuery, Javascript.
+        participants: 4
+
+      - project:
+        title: SOCICA
+        link: "https://socica.jp/"
+        tagline: "Socica is a strategic cloud-based media services that integrate membership card (point card stamp card) with variousmedia and customer management system in the smartphone, connect the shops and customersseamlessly."
+        technical: Agile development, Laravel framework, MySQL, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unittest. 
+        participants: 17
+
+      - project:
+        title: ASIANTECH-SITE
+        link: "https://www.asiantech.vn/en/index"
+        tagline: "The company site develop, including human management, human recruit."
+        technical: Laravel framework, MySQL, jQuery, jQuery ui.
+        participants: 4
+
+publications:
+    title: Others
+    intro: ""
+    
+    publications:
+      - title: Goals
+        content: 
+      - title: 
+
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: PHP
+          level: 70%
+        - skill:
+          name: python
+          level: 50%
+        - skill:
+          name: Agile/Scrum methodology
+          level: 60%
+        - skill:
+          name: API design
+          level: 60%
+        - skill:
+          name: Data analytics
+          level: 60%
+        - skill:
+          name: Javascript & jQuery
+          level: 50%
+        - skill:
+          name: HTML5 & CSS
+          level: 50%
+        - skill:
+          name: Ruby on Rails
+          level: 50%
+        - skill:
+          name: Mysql, postgresql, mongodb
+          level: 60%
+
+footer: 
+    text: 'Mui Le Developer'
