@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Mui Le Van
-    tagline: Senior Software Engineer
+    tagline: Developer
     pic: my_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -26,7 +26,7 @@ sidebar:
           level: Native
         - language:
           idiom: English
-          level: Medium
+          level: Intermediate
         
     interests:
         - interest:
@@ -47,7 +47,7 @@ sidebar:
 
 career-profile: 
     title: Summary
-    text: 'Software Engineer with hands-on experience in a few levels of research, testing(Unit & TDD), including, performance, functional, integration, system, Agile development. Supportive and enthusilatic team player dedicated to streamliming processes and efficiently resolving project issues. Willing to take ownership of core components'
+    text: 'I'm a developer, love algorithms, like simplicity, honesty and solve challenging problems(way learn fast). The favorite language is python and shell script, testing(Unit & TDD), clean coding'
 
 studies: 
     - education:
@@ -62,65 +62,31 @@ experiences:
     
     experiences:
         - role: Senior Software Engineer
-          time: 2016/11/01 - 2018/10/12
+          time: 2016-11-01 to 2018-10-12
           company: Grevo(Gree jp - Evolable asia)
-          details: Implement scalable, research, design structure applications for the new features, information identificaiton, extraction, analysis Gp-data(a type of asynchronous Database in Gree). Supportive member on team to implement, review coding and the features, mentor for new member(Vietnam & Japan engineer).
-          bullets:
-              - Join to a big application built by gree platfrorm, the project has high traffic and handle million request per second for any feature
-              - Direct software design and development, Clean Coding, Improve performance.
-              - Have opportunity to work with google collaborate engineer(Oyaki, suzuki) and senior engineer from Gree jp, core member of PHP language.
-              - Collaborate closely with other team member, PM team(project manager & plan ahead).
-              - Interface with data analysis, developers, and technical support to determine optimal specification.
-              - OO design and analysis(basic).
-              - Familiar with database optimization and performance, MySQL Replication
-              - Work with python background(Gp-data, data background analytics), shell script, Docker, Aws-cloudsearch, Google API, Javascript for spreadsheet and background
+          details: Direct software design and development, Clean Coding, Improve performance (show off a bit, I have won 3 MVP prizes at here).
               
         - role: Freelance developer
           time: 2016
           company: 
           details: Responsive, Design API applications, design structure for new feature in small sites, configuration and deploy small service.
-          bullets:
-              - Configuration, deployment applications on linux(centos).
-              - Design, and develop robust solutions.
-              - Work independently and remote, creative and improvement schedule.
-              - Work with python(flask framework, shell script, elasticsearch, MySQL, postgresql, PERL basic, mongodb, AWS-EC2 etc.)
 
         - role: Junior Software Engineer
-          time: 2014/10/01 - 2016/05/01
+          time: 2014-10-01 to 2016-05-01
           company: Asian Tech Co., Ltd, Da Nang
-          details: Agile development, Responsive & design structure API applications, web applications, research and support other member.
-          bullets:
-              - Familiar with agile system development(worked with a master Agile from JP), interest with collaborate employees from Japan.
-              - Experience with system development using cloud services(AWS).
-              - Startup projects, Working experience with Laravel(PHP), Ruby on Rails(Ruby) or other MVC framework, AWS service(sns notification)
-              - Interest in Start-up, young & dynamic environment.
-
+          details: Approach Agile development, learn responsive & design structure API applications, web applications, research and support other member.
               
 projects:
     title: Projects
-    intro: ""
+    intro: " I have work for some projects"
     
     projects:
       - project:
         title: Driland game
         link: "https://en.wikipedia.org/wiki/Tanken_Driland"
-        tagline: "Tanken Driland is a card-battling quest-based RPG. The player assumes the role of a hunter, and acquires hero cards which are used to defeat dire monsters and collect treasures. The cards gain experience points and can be upgraded. It is also a cooperative game; players can team up to defeat stronger opponents."
-        technical: Ethna framework, Aoi service(gree platfrorm), MySQL, MySQL Replication, Javascript, google API(spreadsheet), Aws cloud service(dev & production server) 
+        tagline: "Tanken Driland is a card-battling quest-based RPG. development by Gree. Now, This game has more 500.000 users daily active and more a million request per one second"
+        technical: Ethna framework, Aoi service(gree platfrorm), MySQL, MySQL Replication, Javascript, google API(spreadsheet), Aws cloud service(dev & production server), python, shell script. 
         participants: 40
-
-      - project:
-        title: Background data analytics
-        link: "#"
-        tagline: "Build background of big project and data analytics"
-        technical: shell script, python, Docker
-        participants: a lot people
-
-      - project:
-        title: Insurance & Bank(I forgot this application name)
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products, care and follow up health status"
-        technical: Python flask framework, elasticsearch, shell script, postgresql
-        participants: 6
 
       - project:
         title: Portal of Ha Long city
@@ -130,32 +96,11 @@ projects:
         participants: 2
 
       - project:
-        title: SEVENTEEN
-        link: "#"
-        tagline: "Seventeen is service project about teen age 17, this magazine seventeen very famous in japan(http://hpplus.jp/st/)"
-        technical: Agile development, Laravel framework, Mysql, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unittest.
-        participants: 17
-
-      - project:
-        title: INVESTER-CLOUD
-        link: "#"
-        tagline: "Site advertise apartments, interior in japan."
-        technical: Agile development, Laravel framework, MySQL, jQuery, Javascript.
-        participants: 4
-
-      - project:
         title: SOCICA
         link: "https://socica.jp/"
         tagline: "Socica is a strategic cloud-based media services that integrate membership card (point card stamp card) with variousmedia and customer management system in the smartphone, connect the shops and customersseamlessly."
         technical: Agile development, Laravel framework, MySQL, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unittest. 
         participants: 17
-
-      - project:
-        title: ASIANTECH-SITE
-        link: "https://www.asiantech.vn/en/index"
-        tagline: "The company site develop, including human management, human recruit."
-        technical: Laravel framework, MySQL, jQuery, jQuery ui.
-        participants: 4
 
 publications:
     title: Others
@@ -177,15 +122,9 @@ skills:
           level: 50%
         - skill:
           name: Agile/Scrum methodology
-          level: 60%
+          level: 50%
         - skill:
-          name: API design
-          level: 60%
-        - skill:
-          name: Data analytics
-          level: 60%
-        - skill:
-          name: Javascript & jQuery
+          name: Javascript
           level: 50%
         - skill:
           name: HTML5 & CSS
@@ -194,7 +133,7 @@ skills:
           name: Ruby on Rails
           level: 50%
         - skill:
-          name: Mysql, postgresql, mongodb
+          name: Mysql, postgresql
           level: 60%
 
 footer: 
