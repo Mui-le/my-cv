@@ -133,6 +133,9 @@ skills:
           name: Ruby on Rails
           level: 50%
         - skill:
+          name: Shell script
+          level: 50%
+        - skill:
           name: Mysql, postgresql
           level: 60%
 
