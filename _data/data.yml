@@ -41,7 +41,7 @@ sidebar:
 
 career-profile: 
     title: Summary
-    text: "I'm a developer, love algorithms, like simplicity, honesty and solve challenging problems(way learn fast). The favorite language is python and shell script, testing(Unit & TDD), clean coding"
+    text: "I'm a developer, love algorithms, like simplicity, honesty and solve challenging problems(way learn fast). The favorite language is python and shell script, testing(Unit & TDD), clean coding."
 
 studies: 
     - education:
@@ -72,7 +72,7 @@ experiences:
               
 projects:
     title: Projects
-    intro: " I have work for some projects"
+    intro: "I have worked for some representative projects below"
     
     projects:
       - project:
