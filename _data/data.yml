@@ -64,7 +64,7 @@ experiences:
         - role: Senior Software Engineer
           time: 2016-11-01 to 2018-10-12
           company: Grevo(Gree jp - Evolable asia)
-          details: Direct software design and development, Clean Coding, Improve performance (show off a bit, I have won 3 MVP prizes at here).
+          details: Direct software design and development, Clean Coding, Improve performance (show off a bit, I have won 3 MVP prizes at here :D).
               
         - role: Freelance developer
           time: 2016
@@ -84,51 +84,23 @@ projects:
       - project:
         title: Driland game
         link: "https://en.wikipedia.org/wiki/Tanken_Driland"
-        tagline: "Tanken Driland is a card-battling quest-based RPG. development by Gree. Now, This game has more 500.000 users daily active and more a million request per one second"
+        tagline: "Tanken Driland is a card-battling quest-based RPG, development by Gree. "
         technical: Ethna framework, Aoi service(gree platfrorm), MySQL, MySQL Replication, Javascript, google API(spreadsheet), Aws cloud service(dev & production server), python, shell script. 
         participants: 40
 
       - project:
         title: Portal of Ha Long city
         link: "http://hanhchinhconghalong.gov.vn/"
-        tagline: "This is a government project, specifically in Ha Long City, for the construction of a public administration system. Supports people to interact with remote administration services through website research and information processing."
+        tagline: "This is a government project, specifically in Ha Long City, for the construction of a public administration system."
         technical: Ruby on Rails, MySQL, jQuery, Coffee script(although it only a litle).
         participants: 2
 
       - project:
         title: SOCICA
         link: "https://socica.jp/"
-        tagline: "Socica is a strategic cloud-based media services that integrate membership card (point card stamp card) with variousmedia and customer management system in the smartphone, connect the shops and customersseamlessly."
-        technical: Agile development, Laravel framework, MySQL, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unittest. 
+        tagline: "Socica is a strategic cloud-based media services that integrate membership card (point card stamp card)."
+        technical: Agile development, Laravel framework, MySQL, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unit test. 
         participants: 17
-
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: PHP
-          level: 70%
-        - skill:
-          name: python
-          level: 50%
-        - skill:
-          name: Agile/Scrum methodology
-          level: 50%
-        - skill:
-          name: Javascript
-          level: 50%
-        - skill:
-          name: HTML5 & CSS
-          level: 50%
-        - skill:
-          name: Ruby on Rails
-          level: 50%
-        - skill:
-          name: Shell script
-          level: 50%
-        - skill:
-          name: Mysql, postgresql
-          level: 60%
 
 footer: 
     text: 'Mui Le Developer'
