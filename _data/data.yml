@@ -30,16 +30,13 @@ sidebar:
         
     interests:
         - interest:
-          item: Game
-          link:
-        - interest:
           item: Read book
           link:
         - interest:
-          item: Coding
+          item: Game, jogging
           link:
         - interest:
-          item: Cooking
+          item: Coding
           link:
 
 career-profile: 
