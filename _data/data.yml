@@ -5,13 +5,13 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'https://driland-le.github.io/my-cv'
+    url: 'https://mui-le.github.io/my-cv'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Mui Le Van
     tagline: Developer
-    pic: my_avt.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: my_avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: mrzendo9x@gmail.com
@@ -22,26 +22,26 @@ sidebar:
 
     languages:
         - language:
-          idiom: Vietnamese
-          level: Native
+          idiom: PHP
+          level: "./../assets/images/four.png"
         - language:
-          idiom: English
-          level: Intermediate
+          idiom: Ruby On Rails
+          level: "./../assets/images/three.png"
+        - language:
+          idiom: Python
+          level: "./../assets/images/two.png"
+        - language:
+          idiom: Javascript
+          level: "./../assets/images/two.png"
         
     interests:
         - interest:
-          item: Read book
-          link:
-        - interest:
-          item: Game, jogging
-          link:
-        - interest:
-          item: Coding
+          item: Coding, Reading Book, Swimming, Game
           link:
 
 career-profile: 
     title: Summary
-    text: "I'm a developer, love algorithms, like simplicity, honesty and solve challenging problems(way learn fast). The favorite language is python and shell script, testing(Unit & TDD), clean coding."
+    text: "I'm a developer, great positive energy, prefer to work as a part of t team. I love algorithms, simplicity, honesty and solve challenging problems. There are many things that I don't know, but I don't afraid to learn."
 
 studies: 
     - education:
@@ -55,43 +55,54 @@ experiences:
     title: Experiences
     
     experiences:
+        - role: Fullstack web Developer
+          time: 2018 - Present
+          company: Worknetics
+          details: Responsible major in developing web applications, DevOps with GCP, communicate and support a teammate.
+
         - role: Senior Software Engineer
-          time: 2016-11-01 to 2018-10-12
+          time: 2016 - 2018
           company: Grevo(Gree jp - Evolable asia)
-          details: Direct software design and development, Clean Coding, Improve performance (show off a bit, I have won 3 MVP prizes at here :D).
+          details: Responsible Design and development, Clean Coding, Improve performance, maintenance old features for applications, researching and support to each other in the team.
               
-        - role: Freelance developer
-          time: 2016
-          company: 
-          details: Responsive, Design API applications, design structure for new feature in small sites, configuration and deploy small service.
+        - role: Freelance Software Engineer
+          time: 2016 - 2016
+          company: Freelancer
+          details: Responsible development, API of applications, design structure for the new feature in small sites, configuration and deploy small service.
 
         - role: Junior Software Engineer
-          time: 2014-10-01 to 2016-05-01
-          company: Asian Tech Co., Ltd, Da Nang
-          details: Approach Agile development, learn responsive & design structure API applications, web applications, research and support other member.
+          time: 2014 - 2016
+          company: Asian Tech Co., Ltd
+          details: Agile development, Responsive & coding structure for multiple API applications, web applications, researching, and support teammate.
               
 projects:
     title: Projects
-    intro: "I have worked for some representative projects below:"
     
     projects:
+      - projects:
+        title: Co-founder connections
+        link: https://cofounders.worknetics.net
+        tagline: "Co-founder is a location-based social search Web application which is responsive for mobile app most often used as a matching cofounders service, that allows users to use a swiping motion to matching or rejected other users, and allows users to chat if both parties like each other."
+
+      - projects:
+        title: Worknetics platform
+        link: http://app.worknetics.net
+        tagline: "Ưeb-based human resource management. It features to make the users connected, finding them jobs, matching between two co-founders and talents, time tracking, and flexible, role-based access control"
+
       - project:
         title: Driland game
-        link: "https://en.wikipedia.org/wiki/Tanken_Driland"
+        link: "https://apps.qoo-app.com/en/app/1724"
         tagline: "Tanken Driland is a card-battling quest-based RPG, development by Gree. "
-        technical: Ethna framework, Aoi service(gree platfrorm), MySQL, MySQL Replication, Javascript, google API(spreadsheet), Aws cloud service(dev & production server), python, shell script. 
 
       - project:
         title: Portal of Ha Long city
         link: "http://hanhchinhconghalong.gov.vn/"
-        tagline: "This is a government project, specifically in Ha Long City, for the construction of a public administration system."
-        technical: Ruby on Rails, MySQL, jQuery, Coffee script(although it only a litle).
+        tagline: "A government project, specifically in Ha Long City, the construction of a public administration system, enhances the productivity of the government on handling administrative procedures"
 
       - project:
         title: SOCICA
         link: "https://socica.jp/"
         tagline: "Socica is a strategic cloud-based media services that integrate membership card (point card stamp card)."
-        technical: Agile development, Laravel framework, MySQL, Object C, Android, AWS cloud service(sns, rsd), redis, jQuery, PHP unit test. 
 
 footer: 
-    text: 'Mui Le Developer'
+    text: 'Mui Le Resume'
