@@ -49,7 +49,7 @@ studies:
       university: Da Nang University of Science and Technology - DUT
       link: http://www.dut.udn.vn/
       time: 2009 - 2014
-      details: "The polytechnic university was founded in Đa Nang in 1976 and then had two divisions: an economic faculty and a technical faculty. When the University of Đa Nang was founded by incorporating several colleges in Đa Nang, the economic division was split off to establish Đa Nang"
+      details: "The polytechnic university was founded in Đa Nang in 1976 and then had two divisions: an economic faculty and a technical faculty. When the University of Đa Nang was founded by incorporating several colleges in Đa Nang, the economic division was split off to establish Đa Nang."
 
 experiences:
     title: Experiences
@@ -87,7 +87,7 @@ projects:
       - projects:
         title: Worknetics platform
         link: http://app.worknetics.net
-        tagline: "Web-based human resource management. It features to make the users connected, finding them jobs, matching between two co-founders and talents, time tracking, and flexible, role-based access control"
+        tagline: "Web-based human resource management. It features to make the users connected, finding them jobs, matching between two co-founders and talents, time tracking, and flexible, role-based access control."
 
       - project:
         title: Driland game
@@ -97,7 +97,7 @@ projects:
       - project:
         title: Portal of Ha Long city
         link: "http://hanhchinhconghalong.gov.vn/"
-        tagline: "A government project, specifically in Ha Long City, the construction of a public administration system, enhances the productivity of the government on handling administrative procedures"
+        tagline: "A government project, specifically in Ha Long City, the construction of a public administration system, enhances the productivity of the government on handling administrative procedures."
 
       - project:
         title: SOCICA
