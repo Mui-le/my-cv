@@ -41,7 +41,7 @@ sidebar:
 
 career-profile: 
     title: Summary
-    text: "I'm a developer, great positive energy, prefer to work as a part of t team. I love algorithms, simplicity, honesty and solve challenging problems. There are many things that I don't know, but I don't afraid to learn."
+    text: "I'm a developer, great positive energy, prefer to work as a part of t team. I love algorithms, simplicity, honesty and solve challenging problems. There are many things that I don't know, but I'm not afraid to learn."
 
 studies: 
     - education:
@@ -68,7 +68,7 @@ experiences:
         - role: Freelance Software Engineer
           time: 2016 - 2016
           company: Freelancer
-          details: Responsible development, API of applications, design structure for the new feature in small sites, configuration and deploy small service.
+          details: Being Responsible development, API of applications, design structure for the new feature in small sites, configuration and deploy small service.
 
         - role: Junior Software Engineer
           time: 2014 - 2016
