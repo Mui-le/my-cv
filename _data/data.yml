@@ -23,16 +23,16 @@ sidebar:
     languages:
         - language:
           idiom: PHP
-          level: "./../assets/images/four.png"
+          level: three.png
         - language:
           idiom: Ruby On Rails
-          level: "./../assets/images/three.png"
+          level: assets/images/two.png
         - language:
           idiom: Python
-          level: "./../assets/images/two.png"
+          level: assets/images/two.png
         - language:
           idiom: Javascript
-          level: "./../assets/images/two.png"
+          level: assets/images/two.png
         
     interests:
         - interest:

@@ -5,7 +5,7 @@
 
     <ul class="list-unstyled interests-list">
       {%for language in site.data.data.sidebar.languages %}
-          <li>{{ language.idiom }}<img class="lang-desc" src={{ language.level }}></li>
+          <li>{{ language.idiom }}<img class="lang-desc" src="{{site.baseurl}}/assets/images/{{ language.level }}"></li>
       {% endfor %}
     </ul>
 
