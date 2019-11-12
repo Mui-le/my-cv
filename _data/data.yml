@@ -87,7 +87,7 @@ projects:
       - projects:
         title: Worknetics platform
         link: http://app.worknetics.net
-        tagline: "Ưeb-based human resource management. It features to make the users connected, finding them jobs, matching between two co-founders and talents, time tracking, and flexible, role-based access control"
+        tagline: "Web-based human resource management. It features to make the users connected, finding them jobs, matching between two co-founders and talents, time tracking, and flexible, role-based access control"
 
       - project:
         title: Driland game
